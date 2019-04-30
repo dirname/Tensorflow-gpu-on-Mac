@@ -35,10 +35,10 @@ If you see information about GPU, it means success.
 
 Python Version                                                                       | Status                                                                                                                                                                                        | Branch
 --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------
-**3.6.8**                                                                     | ![Build Status](success.png)                                                            | r1.12
-**3.6.8**                                                                     | ![Build Status](success.png)                                                            | r1.12.2
-**3.6.8**                                                                     | ![Build Status](failed.png)                                                            | r1.13
-**3.6.8**                                                                     | ![Build Status](failed.png)                                                            | r1.14
-**3.7 +**                                                                     | ![Build Status](failed.png)                                                            | All
+**3.6.8**                                                                     | ![Build Status](https://github.com/dirname/dirname.github.io/blob/master/2019/04/29/1556506356/success.png?raw=true)                                                            | r1.12
+**3.6.8**                                                                     | ![Build Status](https://github.com/dirname/dirname.github.io/blob/master/2019/04/29/1556506356/success.png?raw=true)                                                            | r1.12.2
+**3.6.8**                                                                     | ![Build Status](https://github.com/dirname/dirname.github.io/blob/master/2019/04/29/1556506356/failed.png?raw=true)                                                            | r1.13
+**3.6.8**                                                                     | ![Build Status](https://github.com/dirname/dirname.github.io/blob/master/2019/04/29/1556506356/failed.png?raw=true)                                                            | r1.14
+**3.7 +**                                                                     | ![Build Status](https://github.com/dirname/dirname.github.io/blob/master/2019/04/29/1556506356/failed.png?raw=true)                                                            | All
 
 If you are interested in compiling, you can refer to [Mac build tensorflow + cuda](https://blog.forgiveher.cn/2019/04/29/1556506356/#more).
